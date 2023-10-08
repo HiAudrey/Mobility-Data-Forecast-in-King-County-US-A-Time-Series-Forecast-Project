@@ -1,4 +1,4 @@
-# Mobility Data Forecast in King County, US: A Time Series Forecast Project**
+# Mobility Data Forecast in King County, US: A Time Series Forecast Project
 
 **Overview:**
 This project revolves around time series forecasting for mobility data in King County, US. Utilizing Python and employing the ARIMA (AutoRegressive Integrated Moving Average) model, the goal is to predict mobility trends. The insights derived from this analysis can provide valuable information for public health, urban planning, and policy-making.
